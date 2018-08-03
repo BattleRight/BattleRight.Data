@@ -2,7 +2,7 @@
   "SystemDependencies": [
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/BattleRight.Loader.exe",
-      "Hash": "01511ee84c555d81873324a5f95e6670",
+      "Hash": "82a8dee1585c143f61f10017a11b2d06",
       "Path": "BattleRight.Loader.exe"
     },
     {
@@ -12,18 +12,18 @@
     },
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/BattleRight.Renamer.exe",
-      "Hash": "b2c23f0970c5838d29754dcbdd0ef7e9",
+      "Hash": "e9bc41522c5c0638013e86d56ab7cd2a",
       "Path": "BattleRight.Renamer.exe"
     },
     {
-      "GameHash": "c1a9031fe3122bc066e31c56806800c6",
+      "GameHash": "12d7465162cc9332fcd0cbad1660e7cb",
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/BattleRight.Core.dll",
-      "Hash": "cc81ceb268fc9cf281b933cf15572181",
+      "Hash": "53857d4b43860a22c2e0dea70c543902",
       "Path": "System\\BattleRight.Core.dll"
     },
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/BattleRight.Helper.dll",
-      "Hash": "51001920e3d269f518de7dd433a275b2",
+      "Hash": "8be4e191ac03a74d703975be7371e24a",
       "Path": "System\\BattleRight.Helper.dll"
     },
     {
@@ -33,12 +33,12 @@
     },
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/BattleRight.Sandbox.dll",
-      "Hash": "dfe63cc149226525068b2c9415278209",
+      "Hash": "f4f94293d8bf531b3b0f7b7ad647e0ad",
       "Path": "System\\BattleRight.Sandbox.dll"
     },
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/BattleRight.SDK.dll",
-      "Hash": "26c0814526f1a661605427b8ad5ae33a",
+      "Hash": "7e31558479ab8c5a878cdb88a790525e",
       "Path": "System\\BattleRight.SDK.dll"
     },
     {
@@ -47,54 +47,19 @@
       "Path": "System\\BeaEngineCheetah.dll"
     },
     {
-      "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/Caliburn.Micro.dll",
-      "Hash": "aa5f96c02b08d9b33322f3024058dd91",
-      "Path": "System\\Caliburn.Micro.dll"
+      "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/Microsoft.Build.dll",
+      "Hash": "119463713a46eacf12a3c9d4921de99d",
+      "Path": "System\\Microsoft.Build.dll"
     },
     {
-      "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/Caliburn.Micro.Platform.Core.dll",
-      "Hash": "ab7867bd44b59879a59b5cb968e15668",
-      "Path": "System\\Caliburn.Micro.Platform.Core.dll"
+      "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/Microsoft.Build.Framework.dll",
+      "Hash": "2a3d651cb547c679912045c2a8b734a9",
+      "Path": "System\\Microsoft.Build.Framework.dll"
     },
     {
-      "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/Caliburn.Micro.Platform.dll",
-      "Hash": "a52bdecbc1b7625cb13c9385fad4231b",
-      "Path": "System\\Caliburn.Micro.Platform.dll"
-    },
-    {
-      "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/Dragablz.dll",
-      "Hash": "3c890b4e583af277e27036329d292c36",
-      "Path": "System\\Dragablz.dll"
-    },
-    {
-      "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/git2-15e1193.dll",
-      "Hash": "a47ce9fb43ab13d26eaab3611906c6fe",
-      "Path": "System\\git2-15e1193.dll"
-    },
-    {
-      "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/LibGit2Sharp.dll",
-      "Hash": "3e2c1840e937f321c44ec7ae24e0061c",
-      "Path": "System\\LibGit2Sharp.dll"
-    },
-    {
-      "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/MahApps.Metro.dll",
-      "Hash": "a1b84e1d85ef46e744e0a492c73cefa1",
-      "Path": "System\\MahApps.Metro.dll"
-    },
-    {
-      "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/MaterialDesignColors.dll",
-      "Hash": "7ce94219e89c27f35c66aea2b1000c02",
-      "Path": "System\\MaterialDesignColors.dll"
-    },
-    {
-      "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/MaterialDesignThemes.MahApps.dll",
-      "Hash": "2c4b6ed70c1f696afeaa6b519b42f079",
-      "Path": "System\\MaterialDesignThemes.MahApps.dll"
-    },
-    {
-      "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/MaterialDesignThemes.Wpf.dll",
-      "Hash": "d7d3ab58978e6a276384cf0c9f0561b4",
-      "Path": "System\\MaterialDesignThemes.Wpf.dll"
+      "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/Microsoft.CSharp.dll",
+      "Hash": "225674a015df8c5bc381c3e57b3b8b17",
+      "Path": "System\\Microsoft.CSharp.dll"
     },
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/msdia140.dll",
@@ -135,11 +100,6 @@
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/System.Web.dll",
       "Hash": "51e64dfaf423bcf0e9b0b4b8a8da09eb",
       "Path": "System\\System.Web.dll"
-    },
-    {
-      "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/System.Windows.Interactivity.dll",
-      "Hash": "580244bc805220253a87196913eb3e5e",
-      "Path": "System\\System.Windows.Interactivity.dll"
     }
   ]
 }
