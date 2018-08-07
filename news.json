@@ -1,6 +1,10 @@
 {
   "News": [
     {
+      "Header": "BattleRight 08/07/2018",
+      "Content": "First Public release, Please report any Issues you encounter to the forum."
+    },
+    {
       "Header": "BattleRight",
       "Content": "Welcome to BattleRight Loader."
     },
