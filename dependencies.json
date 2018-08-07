@@ -13,7 +13,7 @@
     },
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/BattleRight.Loader.exe",
-      "Hash": "10ba232be63652167dd6b6250d50bb91",
+      "Hash": "f5bb255a66f9be6f3d7524cf27c4e46d",
       "Path": "BattleRight.Loader.exe"
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/BattleRight.Renamer.exe",
-      "Hash": "9033ff24da846c82509ef24d219badcc",
+      "Hash": "441f37f953b91279811a73e080928a98",
       "Path": "BattleRight.Renamer.exe"
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/BattleRight.SDK.dll",
-      "Hash": "509fd734034cb00d188af1f27ab868b4",
+      "Hash": "b1ccaedb1f73558dd6d71ae0980c7e2b",
       "Path": "System\\BattleRight.SDK.dll"
     },
     {
