@@ -1,6 +1,10 @@
 {
   "News": [
     {
+      "Header": "Improvements and Additions 08/08/2018",
+      "Content": "Loader:\n - Added Install Addon button to the top bar.\n - Added Overall Progress to Updater window.\n - Cleaned up some visuals."
+    },
+    {
       "Header": "New Update 08/08/2018",
       "Content": "This update fixes some of the reported issues with BattleRight."
     },
