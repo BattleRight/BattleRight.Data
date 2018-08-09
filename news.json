@@ -1,6 +1,10 @@
 {
   "News": [
     {
+      "Header": "Bug fixes, Improvements and Additions 08/10/2018",
+      "Content": "Core:\n - Added GameChat.ChatIsFocused.\n - SpellManager is no longer used, refer to AbilitySystem.\nSDK:\n - Fixed an issue with SpellDetector Event.\n - Improved Menu, Now menu wont open when chat is open and vice versa."
+    },
+    {
       "Header": "Improvements and Additions 08/08/2018",
       "Content": "Loader:\n - Added Install Addon button to the top bar.\n - Added Overall Progress to Updater window.\n - Cleaned up some visuals."
     },
