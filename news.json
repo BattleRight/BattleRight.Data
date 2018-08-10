@@ -2,7 +2,7 @@
   "News": [
     {
       "Header": "Bug fixes, Improvements and Additions 08/10/2018",
-      "Content": "Core:\n - Added GameChat.ChatIsFocused.\n - SpellManager is no longer used, refer to AbilitySystem.\nSDK:\n - Fixed an issue with SpellDetector Event.\n - Improved Menu, Now menu wont open when chat is open and vice versa."
+      "Content": "Core:\n - Added GameChat.ChatIsFocused.\n - SpellManager is no longer used, refer to AbilitySystem.\nSDK:\n - Fixed an issue with SpellDetector Event.\n - Improved Menu, Now menu wont open when chat is open and vice versa.\n - Fixed an issue with Prediction Velocity (Thanks to DaPip)."
     },
     {
       "Header": "Improvements and Additions 08/08/2018",
