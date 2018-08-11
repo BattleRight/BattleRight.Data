@@ -2,7 +2,7 @@
   "News": [
     {
       "Header": "Compiler Update, Forced Targets and Hide Names 08/12/2018",
-      "Content": "Loader:\n - Compiler new supports newer Versions of C#.\n - Fixed an issue with installing addons using Git.\nCore:\n - Added Mods.HideNames (Hides all Name mentions in-game)\nSDK:\n - Added an Option to select a forced Target."
+      "Content": "Loader:\n - Compiler now supports newer versions of C#.\n - Fixed an issue with installing addons using Git.\nCore:\n - Added Mods.HideNames (Hides all Name mentions in-game)\nSDK:\n - Added an Option to select a forced Target."
     },
     {
       "Header": "Bug fixes, Improvements and Additions 08/10/2018",
