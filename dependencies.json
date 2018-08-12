@@ -7,11 +7,6 @@
   },
   "SystemDependencies": [
     {
-      "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/BattleRight.DataCreator.exe.config",
-      "Hash": "c58a24fc3c779a47c1a408dc01be4769",
-      "Path": "BattleRight.DataCreator.exe.config"
-    },
-    {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/BattleRight.Loader.exe",
       "Hash": "1ba0fce993045ffe555fc9c68a6a6ddc",
       "Path": "BattleRight.Loader.exe"
