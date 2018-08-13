@@ -1,8 +1,12 @@
 {
   "News": [
     {
+      "Header": "Updater Improvements and Buffs Detector 08/13/2018",
+      "Content": "Loader:\n - Improved update checks.\nSDK:\n - Added Buffs Detector (OnGainBuff and OnRemoveBuff) thanks to DaPip."
+    },
+    {
       "Header": "Compiler Update, Forced Targets and Hide Names 08/12/2018",
-      "Content": "Loader:\n - Compiler now supports newer versions of C#.\n - Fixed an issue with installing addons using Git.\nCore:\n - Added Mods.HideNames (Hides all Name mentions in-game)\n - Fixed some freezing issues in-game.\nSDK:\n - Added an Option to select a forced Target."
+      "Content": "Loader:\n - Compiler now supports newer versions of C#.\n - Fixed an issue with installing addons using Git.\nCore:\n - Added Mods.HideNames (Hides all Name mentions in-game) thanks to Hoyer.\n - Fixed some freezing issues in-game.\nSDK:\n - Added an Option to select a forced Target."
     },
     {
       "Header": "Bug fixes, Improvements and Additions 08/10/2018",
