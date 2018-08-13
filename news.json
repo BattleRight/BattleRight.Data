@@ -2,7 +2,7 @@
   "News": [
     {
       "Header": "Updater Improvements and Buffs Detector 08/13/2018",
-      "Content": "Loader:\n - Improved update checks.\nCore:\n - Added Smooth Aiming Feature (Semi-Realistic Aiming).\nSDK:\n - Added Buffs Detector (OnGainBuff and OnRemoveBuff) thanks to DaPip."
+      "Content": "Loader:\n - Improved update checks.\nSDK:\n - Added Buffs Detector (OnGainBuff and OnRemoveBuff) thanks to DaPip."
     },
     {
       "Header": "Compiler Update, Forced Targets and Hide Names 08/12/2018",
