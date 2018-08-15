@@ -8,7 +8,7 @@
   "SystemDependencies": [
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/BattleRight.Loader.exe",
-      "Hash": "ab41cea9b5cf5bcfd93fcd0d2a6ec34b",
+      "Hash": "7d7aac5a44c721af489d21ae1ecf667d",
       "Path": "BattleRight.Loader.exe"
     },
     {
@@ -43,7 +43,7 @@
     },
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/BattleRight.SDK.dll",
-      "Hash": "6e5adeef57f91205a53f030ee782086a",
+      "Hash": "e928d1ed7ba6e2b318a1d583c5b389f5",
       "Path": "System\\BattleRight.SDK.dll"
     },
     {
