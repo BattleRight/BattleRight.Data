@@ -1,6 +1,10 @@
 {
   "News": [
     {
+      "Header": "Fixed Core issues and Performance updates 08/08/2018",
+      "Content": "Loader:\n - Added an option to Enable Developer Console Window.\n - Fixed an issue with window 7 users that can't download addons from git.\nCore:\n - Fixed an error that occurs with InGameObjects list.\n - Fixed a possible \"Disconnection\" issue.\n - Added Mods.KeepModelsVisible\nSDK:\n - Fixed \"Keep Players Models visible\" mod"
+    },
+    {
       "Header": "Updater Improvements and Buffs Detector 08/13/2018",
       "Content": "Loader:\n - Improved update checks.\nCore:\n - Added Smooth Aiming Feature (Semi-Realistic Aiming).\nSDK:\n - Added Buffs Detector (OnGainBuff and OnRemoveBuff) thanks to DaPip."
     },
