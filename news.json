@@ -1,6 +1,10 @@
 {
   "News": [
     {
+      "Header": "New Updates and Changes 08/18/2018",
+      "Content": "Core:\n - Added support for more GameObject Models.\n(AoEProjectile, AreaObject, ChannelingObject, CurveProjectile, DashObject, TravelBuffObject, InAirBuffObject, KnockBackObject, ObjectHud, PBAoEObject, PickUpObject and SearingDisplacementObject).\n - Added Character.OnDash and OnTravel.\nSDK:\n - Combobox Elements are more visible now (0x4c).\n - Combobox Elements changed to public (Hoyer).\n - Fixed an issue where some menu values would get lost."
+    },
+    {
       "Header": "Fixed Core issues and Performance updates 08/15/2018",
       "Content": "Loader:\n - Added an option to Enable Developer Console Window.\n - Fixed an issue with window 7 users that can't download addons from git.\nCore:\n - Fixed an error that occurs with InGameObjects list.\n - Fixed a possible \"Disconnection\" issue.\n - Added Mods.KeepModelsVisible\nSDK:\n - Fixed \"Keep Players Models visible\" mod"
     },
