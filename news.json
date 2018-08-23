@@ -2,7 +2,7 @@
   "News": [
     {
       "Header": "Quests and Matchmaking(beta) API 08/23/2018",
-      "Content": "Loader:\n - Loader will check for updates before login\nCore:\n - Added Quests API\n - Added Matchmaking API (BETA)\n - Added more Properties to InGameObjects\nSDK:\n - Added an option to allow addons to control cursor movement\n - Added Dash and Travel prediction\n - Add Scroll view to Comboboxes(0x4c)"
+      "Content": "Loader:\n - Loader will check for updates before login\nCore:\n - Added Quests API\n - Added Matchmaking API (BETA)\n - Added more Properties to InGameObjects\n - Smooth aiming now is much smoother.\nSDK:\n - Added an option to allow addons to control cursor movement\n - Added Dash and Travel prediction\n - Add Scroll view to Comboboxes(0x4c)"
     },
     {
       "Header": "New Updates and Changes 08/18/2018",
