@@ -1,6 +1,10 @@
 {
   "News": [
     {
+      "Header": "Quests and Matchmaking(beta) API 08/23/2018",
+      "Content": "Loader:\n - Loader will check for updates before login\nCore:\n - Added Quests API\n - Added Matchmaking API (BETA)\n - Added more Properties to InGameObjects\nSDK:\n - Added an option to allow addons to control cursor movement\n - Added Dash and Travel prediction\n - Add Scroll view to Comboboxes(0x4c)"
+    },
+    {
       "Header": "New Updates and Changes 08/18/2018",
       "Content": "Core:\n - Added support for more GameObject Models.\n(AoEProjectile, AreaObject, ChannelingObject, CurveProjectile, DashObject, TravelBuffObject, InAirBuffObject, KnockBackObject, ObjectHud, PBAoEObject, PickUpObject and SearingDisplacementObject).\n - Added Character.OnDash and OnTravel.\nSDK:\n - Combobox Elements are more visible now (0x4c).\n - Combobox Elements changed to public (Hoyer).\n - Fixed an issue where some menu values would get lost."
     },
