@@ -1,5 +1,9 @@
 {
   "News": [
+      {
+      "Header": "New Update 08/25/2018",
+      "Content": "Loader:\n - Visual improvements.\nCore:\n - Fixed some cases where addons would Aim at random Spots.\n - Changed how OnMatchState update works\n - Added GameConsole.ClearConsole.\nSDK:\n - Changed Menu.Children to Array rather than a List."
+    },
     {
       "Header": "Quests and Matchmaking(beta) API 08/23/2018",
       "Content": "Loader:\n - Loader will check for updates before login\nCore:\n - Added Quests API\n - Added Matchmaking API (BETA)\n - Added more Properties to InGameObjects\n - Smooth aiming now is much smoother.\nSDK:\n - Added an option to allow addons to control cursor movement\n - Added Dash and Travel prediction\n - Add Scroll view to Comboboxes(0x4c)"
