@@ -1,6 +1,10 @@
 {
   "News": [
     {
+      "Header": "Core fixes and Changes 08/29/2018",
+      "Content": "Core:\n - Improved Buff.IsCounter check.\n - Changed Events to Dynamic Invoke.\n - Fixed an Issue With OnMatchStart event.\n - "
+    },
+    {
       "Header": "Performance updates 08/27/2018",
       "Content": "Major performance updates and bug fixes within the API.\nNow the game will no longer drop frames when you play more games."
     },
@@ -27,26 +31,6 @@
     {
       "Header": "Compiler Update, Forced Targets and Hide Names 08/12/2018",
       "Content": "Loader:\n - Compiler now supports newer versions of C#.\n - Fixed an issue with installing addons using Git.\nCore:\n - Added Mods.HideNames (Hides all Name mentions in-game) thanks to Hoyer.\n - Fixed some freezing issues in-game.\nSDK:\n - Added an Option to select a forced Target."
-    },
-    {
-      "Header": "Bug fixes, Improvements and Additions 08/10/2018",
-      "Content": "Core:\n - Added GameChat.ChatIsFocused.\n - SpellManager is no longer used, refer to AbilitySystem.\n - Fixed an issue that prevented core from loading/Reloading.\nSDK:\n - Fixed an issue with SpellDetector Event.\n - Improved Menu, Now menu wont open when chat is open and vice versa.\n - Fixed an issue with Prediction Velocity (Thanks to DaPip).\n - Fixed an in-game crash."
-    },
-    {
-      "Header": "Improvements and Additions 08/08/2018",
-      "Content": "Loader:\n - Added Install Addon button to the top bar.\n - Added Overall Progress to Updater window.\n - Cleaned up some visuals."
-    },
-    {
-      "Header": "New Update 08/08/2018",
-      "Content": "This update fixes some of the reported issues with BattleRight."
-    },
-    {
-      "Header": "BattleRight 08/07/2018",
-      "Content": "First Public release, Please report any Issues you encounter to the forum."
-    },
-    {
-      "Header": "BattleRight",
-      "Content": "Welcome to BattleRight Loader."
-    },
+    }
   ]
 }
