@@ -2,7 +2,7 @@
   "News": [
     {
       "Header": "Core fixes and Changes 08/29/2018",
-      "Content": "Core:\n - Improved Buff.IsCounter check.\n - Changed Events to Dynamic Invoke.\n - Fixed an Issue With OnMatchStart event.\n - "
+      "Content": "Core:\n - Improved Buff.IsCounter check.\n - Changed Events to Dynamic Invoke.\n - Fixed an Issue With OnMatchStart event."
     },
     {
       "Header": "Performance updates 08/27/2018",
