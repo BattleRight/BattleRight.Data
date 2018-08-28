@@ -8,7 +8,7 @@
   "SystemDependencies": [
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/BattleRight.Loader.exe",
-      "Hash": "c4960ddd0d335359f251467d3ded6c2a",
+      "Hash": "3841a2c68fdc1917f52d15e5369cfb05",
       "Path": "BattleRight.Loader.exe"
     },
     {
