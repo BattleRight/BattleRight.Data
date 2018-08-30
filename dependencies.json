@@ -2,7 +2,7 @@
   "Core": {
     "GameHash": "edf3cec877544c75676034a8c967e568",
     "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/BattleRight.Core.dll",
-    "Hash": "2c4c7d456ec3fe550ae5936cb203f3f8",
+    "Hash": "05d3af53ec34362232fe8ee43dd60040",
     "Path": "System\\BattleRight.Core.dll"
   },
   "SystemDependencies": [
@@ -43,7 +43,7 @@
     },
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/BattleRight.SDK.dll",
-      "Hash": "8d1236b0b24136285825f4f684a9e39d",
+      "Hash": "8f1bbbcc5253f471ee8eb1837b96ca25",
       "Path": "System\\BattleRight.SDK.dll"
     },
     {
