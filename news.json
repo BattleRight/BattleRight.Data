@@ -1,6 +1,10 @@
 {
   "News": [
     {
+      "Header": "Loader Fixes 09/01/2018",
+      "Content": "Loader:\n - Fixed addons drag and drop.\n - Fixed injection loop bug.\n - "
+    },
+    {
       "Header": "Core fixes and Changes 08/29/2018",
       "Content": "Core:\n - Improved Buff.IsCounter check.\n - Changed Events to Dynamic Invoke.\n - Fixed an Issue With OnMatchStart event."
     },
