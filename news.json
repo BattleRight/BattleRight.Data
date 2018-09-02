@@ -2,7 +2,7 @@
   "News": [
     {
       "Header": "Loader Fixes 09/01/2018",
-      "Content": "Loader:\n - Fixed addons drag and drop.\n - Fixed injection loop bug.\n - "
+      "Content": "Loader:\n - Fixed addons drag and drop.\n - Fixed injection loop bug."
     },
     {
       "Header": "Core fixes and Changes 08/29/2018",
