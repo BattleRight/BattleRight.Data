@@ -1,6 +1,10 @@
 {
   "News": [
     {
+      "Header": "BuffGain and BuffRemoved events moved to Core 09/03/2018",
+      "Content": "Core:\n - OnBuffGain and OnBuffRemoved events moved to Character class.\n - Buffs are now Cached per Character."
+    },
+    {
       "Header": "Loader Fixes 09/01/2018",
       "Content": "Loader:\n - Fixed addons drag and drop.\n - Fixed injection loop bug."
     },
