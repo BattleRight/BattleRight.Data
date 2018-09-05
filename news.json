@@ -1,6 +1,10 @@
 {
   "News": [
     {
+      "Header": "Improved SDK Prediction, Added OnDashEnd and OnTravelEnd events 09/06/2018",
+      "Content": "Core:\n - Added Character.OnDashEnd and Character.OnTravelEnd events.\n - Fixed a possible disconnecting issue.\nSDK:\n - Prediction improvements.\n - Added HitChace.Impossible."
+    },
+    {
       "Header": "BuffGain and BuffRemoved events moved to Core 09/03/2018",
       "Content": "Core:\n - OnBuffGain and OnBuffRemoved events moved to Character class.\n - Buffs are now Cached per Character."
     },
