@@ -1,6 +1,10 @@
 {
   "News": [
     {
+      "Header": "Performance Improvements 09/08/2018",
+      "Content": "This update Contains changes and fixes to issues that made Addons Perform slower at some cases."
+    },
+    {
       "Header": "Improved SDK Prediction, Added OnDashEnd and OnTravelEnd events 09/06/2018",
       "Content": "Core:\n - Added Character.OnDashEnd and Character.OnTravelEnd events.\n - Fixed a possible disconnecting issue.\nSDK:\n - Prediction improvements.\n - Added HitChace.Impossible."
     },
