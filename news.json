@@ -1,6 +1,10 @@
 {
   "News": [
     {
+      "Header": "Updates and fixes 09/11/2018",
+      "Content": "Core:\n - Added Drawing.DrawingThickness\n - Fixed a bug with OnDestroy event\nSDK:\n - Added a Slider to change Drawings Thickness\nSandbox:\n - Added Support to load addon into Royale mode."
+    },
+    {
       "Header": "Performance Improvements 09/08/2018",
       "Content": "This update Contains changes and fixes to issues that made Addons Perform slower at some cases."
     },
