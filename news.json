@@ -1,6 +1,10 @@
 {
   "News": [
     {
+      "Header": "Stealth Prediction and Tracking 09/12/2018",
+      "Content": "SDK:\n - Added Stealth Tacker.\n - Added Stealth Prediction.\n - Fixed some major Performance issues."
+    },
+    {
       "Header": "Updates and fixes 09/11/2018",
       "Content": "Core:\n - Added Drawing.DrawingThickness\n - Fixed a bug with OnDestroy event\nSDK:\n - Added a Slider to change Drawings Thickness\nSandbox:\n - Added Support to load addon into Royale mode."
     },
