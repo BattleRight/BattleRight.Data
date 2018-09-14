@@ -1,6 +1,10 @@
 {
   "News": [
     {
+      "Header": "Stability updates and Information 09/14/2018",
+      "Content": "This update improve the stability on core, sdk and loader.\nLoader got a new option to enable sending anonymous Statistics.\nMore news and information will be coming on the forums stay tuned !"
+    },
+    {
       "Header": "Stealth Prediction and Tracking 09/12/2018",
       "Content": "SDK:\n - Added Stealth Tacker.\n - Added Stealth Prediction.\n - Fixed some major Performance issues."
     },

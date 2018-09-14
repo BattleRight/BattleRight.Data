@@ -2,13 +2,13 @@
   "Core": {
     "GameHash": "edf3cec877544c75676034a8c967e568",
     "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/BattleRight.Core.dll",
-    "Hash": "cdac861bcf48874c31e187a658dc79b5",
+    "Hash": "e1babef8cb5b6e83e686eea08069922d",
     "Path": "System\\BattleRight.Core.dll"
   },
   "SystemDependencies": [
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/BattleRight.Loader.exe",
-      "Hash": "217be046cb232c2f63178aea0f3e0b8e",
+      "Hash": "7baec8b3decd21f0afab16b7a54447ea",
       "Path": "BattleRight.Loader.exe"
     },
     {
@@ -28,7 +28,7 @@
     },
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/BattleRight.Helper.dll",
-      "Hash": "9512ee215948758420ae31ef8e43674a",
+      "Hash": "c06d115e7440fa822e77be73c99d3f00",
       "Path": "System\\BattleRight.Helper.dll"
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/BattleRight.Sandbox.dll",
-      "Hash": "cc56ea5d116116d8b8ad4562ad3e3662",
+      "Hash": "63bb8cb31e8bdebc3c350b66ae8dd725",
       "Path": "System\\BattleRight.Sandbox.dll"
     },
     {
       "URL": "https://raw.github.com/BattleRight/BattleRight.Data/master/System/BattleRight.SDK.dll",
-      "Hash": "7d2fac6fc0fa9e0d2b6fd204e6312725",
+      "Hash": "bb67b64e79dcf33ac4a77b1feff80638",
       "Path": "System\\BattleRight.SDK.dll"
     },
     {
