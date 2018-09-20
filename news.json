@@ -1,6 +1,10 @@
 {
   "News": [
     {
+      "Header": Updated for Patch 1.8 09/20/2018",
+      "Content": "BattleRight is Updated and Compatiable with the new Patch 1.8 !"
+    },
+    {
       "Header": "Stability updates and Information 09/14/2018",
       "Content": "This update improve the stability on core, sdk and loader.\nLoader got a new option to enable sending anonymous Statistics.\nMore news and information will be coming on the forums stay tuned !"
     },
