@@ -1,6 +1,10 @@
 {
   "News": [
     {
+      "Header": "Big Patch 2.0 07/5/2019",
+      "Content": "We've moved to a new auth server and gave the loader a new look!"
+    },
+    {
       "Header": "Big Patch 2.0 03/04/2019",
       "Content": "BattleRight is Updated and Compatiable with the latest Battlerite Updates"
     },
