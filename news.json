@@ -1,7 +1,11 @@
 {
   "News": [
     {
-      "Header": "Big Patch 2.0 07/5/2019",
+      "Header": "Final Update 02/07/2021",
+      "Content": "Hello world!\nThe time has come, this is the last update for BattleRight.\nWhat does this mean? The Loader and services will remain running,\nbut we will no longer provide updates and support to the project.\n\nThanks to the amazing BattleRight team and all of the developers\nwho brought this project to it's current shape.\nThank you for using our project!\nThis is our last update, the project and all of it's features are fully free and open now.\n\nSincerely, NotKappa."
+    },
+    {
+      "Header": "Big Patch 2.0 07/05/2019",
       "Content": "We've moved to a new auth server and gave the loader a new look!"
     },
     {
